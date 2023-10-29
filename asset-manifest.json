@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/uno-care/static/css/main.778e7d4a.css",
+    "main.js": "/uno-care/static/js/main.dcd0bc39.js",
+    "static/js/787.28cb0dcd.chunk.js": "/uno-care/static/js/787.28cb0dcd.chunk.js",
+    "static/media/img2.png": "/uno-care/static/media/img2.a1ba2f194432c91f94c1.png",
+    "static/media/img1.png": "/uno-care/static/media/img1.75d066dfaee687284fd5.png",
+    "static/media/logo.svg": "/uno-care/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/uno-care/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/uno-care/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/uno-care/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/uno-care/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/uno-care/index.html",
+    "main.778e7d4a.css.map": "/uno-care/static/css/main.778e7d4a.css.map",
+    "main.dcd0bc39.js.map": "/uno-care/static/js/main.dcd0bc39.js.map",
+    "787.28cb0dcd.chunk.js.map": "/uno-care/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.778e7d4a.css",
+    "static/js/main.dcd0bc39.js"
+  ]
+}
